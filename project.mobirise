@@ -309,7 +309,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "ඔබ සැම සාදරයෙන් පිළිගනිමු",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"tel:0773358368\" data-toolbar=\"-mbrBtnMove\">අප හා සම්බන්ධවන්න</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"tel:0773358368\" data-toolbar=\"-mbrBtnMove\">අප හා සම්බන්ධවන්න</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ඊමේල් කරන්න</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
