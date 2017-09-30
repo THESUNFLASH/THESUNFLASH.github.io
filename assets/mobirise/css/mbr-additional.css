@@ -2878,3 +2878,31 @@ body {
     flex-shrink: 0;
   }
 }
+.cid-qwGq99Phok {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1625x1080.jpg");
+}
+.cid-qwGrGiMzJp {
+  background: #ffffff;
+}
+.cid-qwGrGiMzJp .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qwGrGiMzJp .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qwGrGiMzJp figcaption {
+  position: relative;
+}
+.cid-qwGrGiMzJp figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qwGrGiMzJp .image-block {
+    width: 100% !important;
+  }
+}
