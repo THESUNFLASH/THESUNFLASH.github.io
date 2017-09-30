@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SF",
-    "currentPage": "stations.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Powered by; SUNFLASH 2017\nwww.sunflash.tk",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
